@@ -1,0 +1,31 @@
+#navigation_bar {
+  display:flex;
+  background-color:green;
+  margin-bottom: 20px;
+}
+.selection {
+ padding:10px;
+ margin:0px;
+ border:1px solid grey;
+ cursor: pointer;
+}
+body{background-color:	goldenrod;}
+h1{font-size:75px}
+p{font-style:italic;}
+p{font-size:50px}
+ol{font-size:50px}
+ul{font-size:50px}
+h2{font-size:50px}
+div{background-color:limegreen;border:5px solid black;width:880px}
+#intro{
+font-weight:bold;
+font-size:50px;
+ border:none;
+  
+}
+div{margin:20px;
+padding:20px;
+  border-style:outset;
+  border-radius:50px;
+}
+
